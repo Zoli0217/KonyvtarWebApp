@@ -1,0 +1,48 @@
+@page
+@model KonyvtarWebApp.Pages.SzerzoPages.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Szerzo[0].Nev)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Szerzo[0].SzuletesiEv)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Szerzo[0].Konyvek)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Szerzo) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.Nev)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.SzuletesiEv)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Konyvek)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

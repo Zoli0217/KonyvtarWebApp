@@ -1,0 +1,47 @@
+@page
+@model KonyvtarWebApp.Pages.KonyvPages.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Konyv</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="Konyv.Cim" class="control-label"></label>
+                <input asp-for="Konyv.Cim" class="form-control" aria-required="true"/>
+                <span asp-validation-for="Konyv.Cim" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Konyv.KiadasEve" class="control-label"></label>
+                <input asp-for="Konyv.KiadasEve" class="form-control" />
+                <span asp-validation-for="Konyv.KiadasEve" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Konyv.SzerzoId" class="control-label"></label>
+                 <select asp-for="Konyv.SzerzoId" class="form-control" asp-items="Model.SzerzoSelectList" aria-required="true">
+                     <option>-- Select Szerző --</option>
+                 </select>
+                <span asp-validation-for="Konyv.SzerzoId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

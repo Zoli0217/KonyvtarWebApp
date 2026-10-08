@@ -1,0 +1,100 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFramework = net10.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.EntryPointFilePath = 
+build_property.RootNamespace = KonyvtarWebApp
+build_property.RootNamespace = KonyvtarWebApp
+build_property.ProjectDir = C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Backend\KonyvtarWebApp\KonyvtarWebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 10.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Backend\KonyvtarWebApp\KonyvtarWebApp
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/KonyvPages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29ueXZQYWdlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/KonyvPages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29ueXZQYWdlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/KonyvPages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29ueXZQYWdlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/KonyvPages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29ueXZQYWdlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/KonyvPages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29ueXZQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/SzerzoPages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3plcnpvUGFnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/SzerzoPages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3plcnpvUGFnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/SzerzoPages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3plcnpvUGFnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/SzerzoPages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3plcnpvUGFnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/SzerzoPages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3plcnpvUGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodi.zoltan/Documents/Bődi Zoltán/Backend/KonyvtarWebApp/KonyvtarWebApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y6e03qudcn

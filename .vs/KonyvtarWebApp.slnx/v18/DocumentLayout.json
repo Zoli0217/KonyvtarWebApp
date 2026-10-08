@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapp\\konyvtarwebapp\\pages\\szerzopages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|solutionrelative:konyvtarwebapp\\pages\\szerzopages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapp\\konyvtarwebapp\\pages\\konyvpages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|solutionrelative:konyvtarwebapp\\pages\\konyvpages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapp\\konyvtarwebapp\\pages\\konyvpages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|solutionrelative:konyvtarwebapp\\pages\\konyvpages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapp\\konyvtarwebapp\\pages\\konyvpages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|solutionrelative:konyvtarwebapp\\pages\\konyvpages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapp\\konyvtarwebapp\\pages\\konyvpages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|solutionrelative:konyvtarwebapp\\pages\\konyvpages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapp\\konyvtarwebapp\\dtos\\konyveditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|solutionrelative:konyvtarwebapp\\dtos\\konyveditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapp\\konyvtarwebapp\\pages\\konyvpages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|solutionrelative:konyvtarwebapp\\pages\\konyvpages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapp\\konyvtarwebapp\\pages\\konyvpages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|solutionrelative:konyvtarwebapp\\pages\\konyvpages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapp\\konyvtarwebapp\\pages\\konyvpages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|solutionrelative:konyvtarwebapp\\pages\\konyvpages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapp\\konyvtarwebapp\\pages\\konyvpages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|solutionrelative:konyvtarwebapp\\pages\\konyvpages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapp\\konyvtarwebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|solutionrelative:konyvtarwebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapp\\konyvtarwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|solutionrelative:konyvtarwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapp\\konyvtarwebapp\\pages\\szerzopages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|solutionrelative:konyvtarwebapp\\pages\\szerzopages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapp\\konyvtarwebapp\\pages\\szerzopages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|solutionrelative:konyvtarwebapp\\pages\\szerzopages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapp\\konyvtarwebapp\\dtos\\szerzoeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB50C09-9B3D-41B5-B632-41D8B2699810}|KonyvtarWebApp\\KonyvtarWebApp.csproj|solutionrelative:konyvtarwebapp\\dtos\\szerzoeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\SzerzoPages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebApp\\Pages\\SzerzoPages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\SzerzoPages\\Delete.cshtml.cs",
+              "RelativeToolTip": "KonyvtarWebApp\\Pages\\SzerzoPages\\Delete.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T12:24:05.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KonyvEditDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\DTOs\\KonyvEditDTO.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebApp\\DTOs\\KonyvEditDTO.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\DTOs\\KonyvEditDTO.cs",
+              "RelativeToolTip": "KonyvtarWebApp\\DTOs\\KonyvEditDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T12:15:18.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\KonyvPages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebApp\\Pages\\KonyvPages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\KonyvPages\\Edit.cshtml.cs",
+              "RelativeToolTip": "KonyvtarWebApp\\Pages\\KonyvPages\\Edit.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T12:10:20.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\KonyvPages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KonyvtarWebApp\\Pages\\KonyvPages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\KonyvPages\\Edit.cshtml",
+              "RelativeToolTip": "KonyvtarWebApp\\Pages\\KonyvPages\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-08T12:08:12.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\KonyvPages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebApp\\Pages\\KonyvPages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\KonyvPages\\Delete.cshtml.cs",
+              "RelativeToolTip": "KonyvtarWebApp\\Pages\\KonyvPages\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBsAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T12:07:18.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\KonyvPages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "KonyvtarWebApp\\Pages\\KonyvPages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\KonyvPages\\Delete.cshtml",
+              "RelativeToolTip": "KonyvtarWebApp\\Pages\\KonyvPages\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-08T12:05:37.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\KonyvPages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebApp\\Pages\\KonyvPages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\KonyvPages\\Index.cshtml.cs",
+              "RelativeToolTip": "KonyvtarWebApp\\Pages\\KonyvPages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T12:03:57.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\KonyvPages\\Index.cshtml",
+              "RelativeDocumentMoniker": "KonyvtarWebApp\\Pages\\KonyvPages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\KonyvPages\\Index.cshtml",
+              "RelativeToolTip": "KonyvtarWebApp\\Pages\\KonyvPages\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-08T12:02:56.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Program.cs",
+              "RelativeToolTip": "KonyvtarWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T11:53:38.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\KonyvPages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebApp\\Pages\\KonyvPages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\KonyvPages\\Create.cshtml.cs",
+              "RelativeToolTip": "KonyvtarWebApp\\Pages\\KonyvPages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T11:37:26.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\KonyvPages\\Create.cshtml",
+              "RelativeDocumentMoniker": "KonyvtarWebApp\\Pages\\KonyvPages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\KonyvPages\\Create.cshtml",
+              "RelativeToolTip": "KonyvtarWebApp\\Pages\\KonyvPages\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-08T11:37:09.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\SzerzoPages\\Create.cshtml",
+              "RelativeDocumentMoniker": "KonyvtarWebApp\\Pages\\SzerzoPages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\SzerzoPages\\Create.cshtml",
+              "RelativeToolTip": "KonyvtarWebApp\\Pages\\SzerzoPages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-08T10:56:42.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\SzerzoPages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebApp\\Pages\\SzerzoPages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\SzerzoPages\\Create.cshtml.cs",
+              "RelativeToolTip": "KonyvtarWebApp\\Pages\\SzerzoPages\\Create.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T10:57:06.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KonyvtarWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KonyvtarWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-08T10:55:02.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SzerzoEditDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\DTOs\\SzerzoEditDTO.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebApp\\DTOs\\SzerzoEditDTO.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebApp\\KonyvtarWebApp\\DTOs\\SzerzoEditDTO.cs",
+              "RelativeToolTip": "KonyvtarWebApp\\DTOs\\SzerzoEditDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T11:15:17.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
